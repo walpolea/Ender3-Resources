@@ -60,9 +60,9 @@ Resources for getting started with the original Ender 3 3D Printer
 
 - Tinkercad is a great starting point, free and easy! - https://www.tinkercad.com
 
-- Sketchup 3D
+- SketchUp - https://www.sketchup.com
 
-- Fusion 360
+- Autodesk Fusion 360, free for hobbyists and small businesses. - https://www.autodesk.com/products/fusion-360/overview
 
 ## Filament
 
