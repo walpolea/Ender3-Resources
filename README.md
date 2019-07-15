@@ -58,7 +58,7 @@ Resources for getting started with the original Ender 3 3D Printer
 
 **Design**
 
-- tinkercad.com is a great starting point, free and easy!
+- Tinkercad is a great starting point, free and easy! - https://www.tinkercad.com
 
 - Sketchup 3D
 
