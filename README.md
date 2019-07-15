@@ -18,7 +18,7 @@ Resources for getting started with the original Ender 3 3D Printer
 
 - Sometimes your aluminum carriage can be very slightly bent, usually this will cause the middle, along the Y-axis to be higher or lower than the left and right X-axis edges.
 
-## Printable Upgrades
+## Printable / DIY Upgrades
 
 - Main Board Fan Cover (**HIGHLY RECOMMENDED**) - https://www.thingiverse.com/thing:2935204
 
@@ -29,6 +29,8 @@ Resources for getting started with the original Ender 3 3D Printer
 - Display Ribbon Cable Clips, print 2 - https://www.thingiverse.com/thing:2880021
 
 - Extruder Knob - https://www.thingiverse.com/thing:3176144
+
+- Sharpen the spatula that comes with the kit on a belt sander, also round-over the sharp corner edges, they tend to easily gouge your bed otherwise. **CAUTION!** NEVER USE THE SPATULA IN A DIRECTION TOWARD YOUR ARM OR HAND!
 
 ## Buyable Upgrades
 
