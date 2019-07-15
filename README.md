@@ -14,6 +14,8 @@ Resources for getting started with the original Ender 3 3D Printer
 
 - Before your first print, leveling your bed is a crucial step to successful printing. This is how close/far your nozzle is to the build surface, and how consistent that distance is across the X and Y axes.
 
+- In the assembly video above, he mentions cutting off the z-limit switch plastic stop so that it can be mounted slightly lower. This is a common need to d0. So when you first home your nozzle, if it's very far (3mm+) from the build surface, you may need to do the same. Clip off the plastic nub with your flush cuts, and mount a little lower.
+
 - Sometimes your aluminum carriage can be very slightly bent, usually this will cause the middle, along the Y-axis to be higher or lower than the left and right X-axis edges.
 
 ## Printable Upgrades
@@ -40,7 +42,47 @@ Resources for getting started with the original Ender 3 3D Printer
 
 ## Software
 
+**Slicer**
+
+- Install the latest version of Ultimaker Cura (currently 4.1) - https://ultimaker.com/software/ultimaker-cura
+
+- Then follow the instructions to install Creawsome Mod for Cura - https://github.com/trouch/CreawsomeMod - the default Ender 3 settings are a really great starting point to get up and running quickly!
+  - General instalation instructions:
+    - Run Cura at least once before installing the mod.
+    - Download the Creawsome mod from the link in the readme.md (not the github zip)
+    - Replace your Cura "resources" folder with the Creawsome resources folder.
+    - Run Cura (you should see a splash screen with Creawsome in the name)
+    - Set up your Printer using the Creawsome presets.
+
+**Design**
+
+- tinkercad.com is a great starting point, free and easy!
+
+- Sketchup 3D
+
+- Fusion 360
+
 ## Filament
+
+**PLA**
+
+- Prusament is top-notch
+
+- Hatchbox
+
+- 3D Solutech
+
+- Zyltech
+
+- eSun
+
+- Any 1kg spool under \$15 is a good deal, but be aware that some brands make terrible filament; research accordingly!
+
+---
+
+## General Tips & Tricks
+
+- You can print via a USB cable tethered to your computer, but I don't recommend it, because CPU strain on the computer can cause the machine to slow down or pause intermittently. Instead opt to use the micro SD card.
 
 ---
 
